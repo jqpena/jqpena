@@ -5,13 +5,13 @@ I'm a **backend-focused Software Engineer** with a strong background in **Linux 
 Driven by curiosity and a strong *“how and why”* mindset, I constantly explore new concepts and refine my skills. This approach has led me to work not only with high-level frameworks, but also to dive into **compiled languages such as C, C++ and Rust**, strengthening my understanding of performance, memory management, and system-level programming.
 
 ----
-<div style="display: flex; justify-content: space-evenly; gap: 15rem;">
+<!-- <div style="display: flex; justify-content: space-evenly; gap: 15rem;">
   <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
   <img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png">
   <img height="20" alt="fastapi" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png">
   <img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
-</div>
+</div> -->
 
 ## About Me
 
@@ -62,7 +62,7 @@ Additionally, I assumed responsibilities in **on‑premise server administration
 
 ----
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jqpena&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqpena&layout=compact&theme=tokyonight&hide_border=true"/>
+<div style="display: flex; justify-content: space-around;">
+  <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=jqpena&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+  <img style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqpena&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
