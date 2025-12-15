@@ -63,6 +63,6 @@ Additionally, I assumed responsibilities in **on‑premise server administration
 ----
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jqpena&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqpena&layout=compact&theme=gruvbox&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jqpena&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqpena&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
